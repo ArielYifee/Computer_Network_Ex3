@@ -10,4 +10,4 @@ this exercise will give you the the tool to test the diffrentce between Cubic an
 to resemble loss of packets we use tc tool in linux (to install - use the command "sudo apt install iproute2" ) by the command "sudo tc qdisc change dev lo root netem loss XX%".
 
 ## License
-this exercise made by Ariel Yifee, to any question you can contact me by email - ariel.yifee@gmail.com
+this exercise made by Ariel Yifee and Moti Dahari, to any question you can contact us by email - ariel.yifee@gmail.com or motidaharii@gmail.com
